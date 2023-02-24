@@ -2,7 +2,7 @@
 The data set comes from the following paper: 
 Abdelfattah, N., Kumar, P., Wang, C., Leu, J. S., Flynn, W. F., Gao, R., Baskin, D. S., Pichumani, K., Ijare, O. B., Wood, S. L., Powell, S. Z., Haviland, D. L., Parker Kerrigan, B. C., Lang, F. F., Prabhu, S. S., Huntoon, K. M., Jiang, W., Kim, B. Y. S., George, J., & Yun, K. (2022). Single-cell analysis of human glioma and immune cells identifies S100A4 as an immunotherapy target. Nature communications, 13(1), 767. https://doi.org/10.1038/s41467-022-28372-y
 
-Links to the notebooks can be found in the text files. The doublet removal file describes the process of removing doublets. The Quality Control file describes filtration and clustering. 
+Links to the notebooks can be found in the text files. The doublet removal file describes the process of removing doublets. The Quality Control file describes filtration and clustering. Certain files were too large to be directly uploaded to the github, and therefore were inserted as links that can be downloaded from Box. 
 
 The data originates from a paper by Abdelfattah et. al from the Houston Methodist Research Institute (Abdelfattah et. al). The paper itself focuses its analysis on the relationship between immune cells and gliomas, which is different from our focus on development of GBM. The tumor samples itself used for sequencing were obtained from patients at the at Houston Methodist Hospital, Houston, Texas and MD Anderson Cancer Center. The data then underwent single cell RNA sequencing using a 10X chromium controller and Cell Ranger software to process the data for raw use. 
 
